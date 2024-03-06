@@ -1,0 +1,8 @@
+title: HorAIzon 
+description: Thoughts about Horizon Europe and AI compliance 
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+#ga_tracking: UA-115122033-1
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+remote_theme: kelu124/just-the-docs
+permalink: /404.html
