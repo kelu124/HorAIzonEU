@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Horizon Europe and the AI Act - Transparency
+title: Transparency
 nav_order: 24
 ---
 

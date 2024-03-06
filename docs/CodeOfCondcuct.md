@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Horizon Europe and the AI Act - Code of conduct
+title: Code of conduct
 nav_order: 90
 ---
 

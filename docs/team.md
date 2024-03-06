@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Horizon Europe and the AI Act - Teams
+title: Responsibilities
 nav_order: 60
 ---
 

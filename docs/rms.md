@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Horizon Europe and the AI Act - Risk Management
+title: Risk Management
 nav_order: 30
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Horizon Europe and the AI Act - Register
+title: Register the system
 nav_order: 25
 ---
 

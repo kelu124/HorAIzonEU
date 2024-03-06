@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Horizon Europe and the AI Act - Compliance
+title: Compliance
 nav_order: 20
 ---
 
